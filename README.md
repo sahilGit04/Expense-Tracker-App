@@ -16,6 +16,15 @@ A data-driven Expense Tracker built using Streamlit that helps users track, anal
 - Streamlit
 - Pandas
 - Matplotlib
+  
+### Dashboard
+![Dashboard](./images/dashboard.png)
+
+### Graphs
+![Graphs](./images/graphs.png)
+
+### Insights
+![Insights](./images/insights.png)
 
 ## ▶️ How to Run
 
@@ -28,14 +37,7 @@ python -m streamlit run app.py
 
 ## 📊 Screenshots
 
-### Dashboard
-![Dashboard](./images/dashboard.png)
 
-### Graphs
-![Graphs](./images/graphs.png)
-
-### Insights
-![Insights](./images/insights.png)
 
 📈 Use Case
 
